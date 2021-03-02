@@ -1,4 +1,4 @@
-# Xmind-
+# Xmind仿真
 基于.NET的WPF框架下对XMind软件的仿真
 ### 前台的程序部分
 
